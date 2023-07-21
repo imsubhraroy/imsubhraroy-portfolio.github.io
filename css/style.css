@@ -10953,7 +10953,7 @@ h5,
   font-weight: 500;
   letter-spacing: 5px;
   font-size: 16px;
-  z-index: 1;
+/*   z-index: 1; */
   color: rgba(0, 0, 0, 0.3);
 }
 @media (max-width: 1199.98px) {
