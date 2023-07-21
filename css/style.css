@@ -12707,5 +12707,6 @@ textarea.form-control {
   }
   .one-forth{
     z-index: 0;
+    background: none;
   }
 }
