@@ -12707,3 +12707,8 @@ textarea.form-control {
   }
 
 }
+
+  #hero-section{
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
